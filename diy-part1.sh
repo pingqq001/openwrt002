@@ -17,7 +17,7 @@
 echo 'src-git helloworld https://github.com/fw876/helloworld' >>feeds.conf.default
 #echo 'src-git passwall https://github.com/xiaorouji/openwrt-passwall' >>feeds.conf.default
 
-echo 'src-git istore https://github.com/luochongjun/istore.git' >>feeds.conf.default
-echo 'src-git openclash https://github.com/vernesong/openclash.git' >>feeds.conf.default
+#echo 'src-git istore https://github.com/luochongjun/istore.git' >>feeds.conf.default
+#echo 'src-git openclash https://github.com/vernesong/openclash.git' >>feeds.conf.default
 
 
